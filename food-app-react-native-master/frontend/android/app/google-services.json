@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664929520600",
+    "project_id": "native-food-app-a2116",
+    "storage_bucket": "native-food-app-a2116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664929520600:android:9a954019b2f2b5ff3640ad",
+        "android_client_info": {
+          "package_name": "com.pizzabooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664929520600-tpkk9vt2ot8t1rslsojo04j3p0ce2tpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaA-OprMyPh--Meh9voS6HDDOEI0RXQns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664929520600-tpkk9vt2ot8t1rslsojo04j3p0ce2tpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
